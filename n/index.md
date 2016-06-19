@@ -1,5 +1,5 @@
-Index
-=====
+Indeks
+======
 
  - [`Group`](Group)
  - [`Variable`](Variable)

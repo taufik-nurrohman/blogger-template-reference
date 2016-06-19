@@ -1,18 +1,18 @@
-Blogger Template Reference
-==========================
+Referensi Templat Blogger
+=========================
 
 ~~~ .xml
 <b:if cond='data:origin.reference &lt;= 0'>
-  <b:include name='my:reference'/>
+  <b:include name='myReference'/>
 </b:if>
 ~~~
 
-Index
------
+Indeks
+------
 
- - [Blogger Template Tags](tree/master/t)
- - [Blogger Template Attributes](tree/master/a)
- - [Blogger Template Values](tree/master/v)
- - [Blogger Template Functions](tree/master/f)
+ - [Tag Templat Blogger](t)
+ - [Attribut Templat Blogger](a)
+ - [Nilai Templat Blogger](v)
+ - [Fungsi Templat Blogger](f)
 
-http://www.dte.web.id
+**Oleh:** http://www.dte.web.id

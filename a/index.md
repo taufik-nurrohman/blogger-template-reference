@@ -1,5 +1,5 @@
-Index
-=====
+Indeks
+======
 
  - [`b:version`](b%3Aversion)
  - [`cond`](cond)
