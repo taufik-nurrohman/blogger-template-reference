@@ -1,5 +1,5 @@
 Indeks
 ======
 
- - [`resizeImage`](resizeImage)
- - [`sourceSet`](sourceSet)
+ - [`resizeImage`](f/resizeImage)
+ - [`sourceSet`](f/sourceSet)
